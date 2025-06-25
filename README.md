@@ -139,7 +139,7 @@ This report supports strategic decision-making by highlighting key variances in 
 - [`Corporate Spend.pbix`](https://github.com/Fathima-Parli/corporate-spend-report/blob/main/Corporate%20Spend%20(1).pbix) — Power BI dashboard file
 - [`classic_models_dataset.zip`](https://github.com/Fathima-Parli/corporate-spend-report/blob/main/classic_models_dataset.zip) — Source dataset used in the report
 ### 1. Overview Page
-![Overview](Screenshot 2025-06-25 115807.png)
+![Overview](https://github.com/Fathima-Parli/corporate-spend-report/blob/main/Screenshot%202025-06-25%20115807.png)
 
 ### 2. Country-Level Variance Analysis
 ![Country Analysis](./images/screenshot-country-analysis.png)
