@@ -138,4 +138,4 @@ This report supports strategic decision-making by highlighting key variances in 
 ## 📁 Files Included 
 - [`Corporate Spend.pbix`](https://github.com/Fathima-Parli/corporate-spend-report/blob/main/Corporate%20Spend%20(1).pbix) — Power BI dashboard file
 - [`classic_models_dataset.zip`](https://github.com/Fathima-Parli/corporate-spend-report/blob/main/classic_models_dataset.zip) — Source dataset used in the report
-- [`images/`](./images) — Folder containing screenshots of the report
+- [`images/`](Screenshot 2025-06-25 115807.png,) — Folder containing screenshots of the report
