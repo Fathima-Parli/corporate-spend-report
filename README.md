@@ -62,7 +62,7 @@ This report supports strategic decision-making by highlighting key variances in 
 - **Dataset**: classic_models_dataset.zip
 - **Format**: CSV/Excel
 - **Type**: Financial and operational data
-- **Last Updated**: _[Insert latest refresh date]_
+
 
 ---
 
