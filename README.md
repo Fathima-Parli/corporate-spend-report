@@ -145,4 +145,3 @@ This report supports strategic decision-making by highlighting key variances in 
 ![Regional Analysis](https://github.com/Fathima-Parli/corporate-spend-report/blob/main/Screenshot%202025-06-25%20115831.png)
 ### 3. Business Unit Support Breakdown
 ![BU Support](https://github.com/Fathima-Parli/corporate-spend-report/blob/main/Screenshot%202025-06-25%20115852.png)
--                       (https://github.com/Fathima-Parli/corporate-spend-report/blob/main/Screenshot%202025-06-25%20115831.png) — File containing screenshots of the report
